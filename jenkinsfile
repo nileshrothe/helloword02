@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from the repository
-git 'https://github.com/your-repo/hello-world-java.git'
+git 'https://github.com/nileshrothe/helloword02.git'
             }
         }
  
